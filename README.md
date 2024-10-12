@@ -1,6 +1,6 @@
 ## Code used
 
-Takes from my project [lidraughts-bot](https://github.com/AttackingOrDefending/lidraughts-bot).
+Taken from my project [lidraughts-bot](https://github.com/AttackingOrDefending/lidraughts-bot).
 
 ## How to Run
 
